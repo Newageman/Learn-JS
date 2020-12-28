@@ -1,0 +1,23 @@
+header {
+  background-color: #7f239b;
+}
+
+.header h1 {
+  font-size: 20px;
+  color: aqua;
+}
+
+footer {
+  background-color: #8359f7;
+  font-size: 20px;
+  height: 100px;
+  display: block;
+  margin: auto;
+}
+
+body {
+  font-size: 20px;
+}
+body div {
+  font-size: 10px;
+}
